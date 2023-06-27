@@ -1,0 +1,242 @@
+[
+  {
+    "company": "McClure-Kohler",
+    "position": "Business Systems Development Analyst",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2022-11-18T10:17:42Z"
+  },
+  {
+    "company": "Bednar-Dooley",
+    "position": "VP Accounting",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2023-01-11T07:13:15Z"
+  },
+  {
+    "company": "Walsh LLC",
+    "position": "VP Accounting",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2022-10-11T21:39:12Z"
+  },
+  {
+    "company": "Halvorson-Auer",
+    "position": "Administrative Officer",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2023-06-19T08:27:05Z"
+  },
+  {
+    "company": "Kohler-Hand",
+    "position": "Occupational Therapist",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2022-11-12T10:32:16Z"
+  },
+  {
+    "company": "Donnelly Inc",
+    "position": "Chief Design Engineer",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2023-06-05T22:30:54Z"
+  },
+  {
+    "company": "Boehm-Dare",
+    "position": "Cost Accountant",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2022-08-03T18:38:59Z"
+  },
+  {
+    "company": "Ernser, Jacobs and O'Keefe",
+    "position": "VP Marketing",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2023-04-22T17:56:29Z"
+  },
+  {
+    "company": "Skiles and Sons",
+    "position": "VP Accounting",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2023-01-21T12:05:45Z"
+  },
+  {
+    "company": "Reichert Group",
+    "position": "Developer IV",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2023-06-15T19:03:16Z"
+  },
+  {
+    "company": "Koss-Conn",
+    "position": "Editor",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2023-01-02T00:13:42Z"
+  },
+  {
+    "company": "Watsica, O'Kon and Kshlerin",
+    "position": "Payment Adjustment Coordinator",
+    "status": "pending",
+    "jobType": "part-time",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2022-10-09T12:25:39Z"
+  },
+  {
+    "company": "Steuber-Hoeger",
+    "position": "GIS Technical Architect",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2023-04-23T08:46:24Z"
+  },
+  {
+    "company": "Tromp, Brown and Medhurst",
+    "position": "Business Systems Development Analyst",
+    "status": "pending",
+    "jobType": "part-time",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2022-07-23T03:22:35Z"
+  },
+  {
+    "company": "Bins LLC",
+    "position": "Internal Auditor",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2022-09-15T13:29:56Z"
+  },
+  {
+    "company": "Kutch-Murazik",
+    "position": "Research Assistant III",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2023-04-29T18:21:14Z"
+  },
+  {
+    "company": "Quitzon, Legros and Kilback",
+    "position": "Recruiting Manager",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2022-11-14T08:52:32Z"
+  },
+  {
+    "company": "Beer, Harber and Bogisich",
+    "position": "Internal Auditor",
+    "status": "pending",
+    "jobType": "part-time",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2023-04-25T08:56:13Z"
+  },
+  {
+    "company": "Gusikowski, Dickinson and Bradtke",
+    "position": "Design Engineer",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2022-07-21T16:33:08Z"
+  },
+  {
+    "company": "Sanford, Waelchi and Watsica",
+    "position": "Human Resources Manager",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2022-09-10T13:23:05Z"
+  },
+  {
+    "company": "Wolff-Altenwerth",
+    "position": "Design Engineer",
+    "status": "pending",
+    "jobType": "part-time",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2023-02-07T13:11:05Z"
+  },
+  {
+    "company": "Shields, Armstrong and Dickinson",
+    "position": "Business Systems Development Analyst",
+    "status": "pending",
+    "jobType": "part-time",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2023-01-11T07:52:52Z"
+  },
+  {
+    "company": "Beahan LLC",
+    "position": "Cost Accountant",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2022-07-15T18:05:07Z"
+  },
+  {
+    "company": "Konopelski and Sons",
+    "position": "Web Developer IV",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2022-12-01T05:28:53Z"
+  },
+  {
+    "company": "Denesik LLC",
+    "position": "Sales Representative",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2022-09-27T12:04:05Z"
+  },
+  {
+    "company": "Connelly, Hauck and Johnson",
+    "position": "Accountant I",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2023-04-13T18:22:36Z"
+  },
+  {
+    "company": "Heidenreich, Nienow and Wisozk",
+    "position": "Community Outreach Specialist",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2022-12-30T17:51:06Z"
+  },
+  {
+    "company": "Legros-Kris",
+    "position": "Computer Systems Analyst III",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2023-05-05T18:45:57Z"
+  },
+  {
+    "company": "Altenwerth and Sons",
+    "position": "Staff Scientist",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2022-07-08T01:51:30Z"
+  },
+  {
+    "company": "Wolff-Bosco",
+    "position": "Actuary",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "649a6820803a8c1c3c787d9c",
+    "createdAt": "2022-07-21T03:33:41Z"
+  }
+]
